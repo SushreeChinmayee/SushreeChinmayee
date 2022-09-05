@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align = 'center'> Hello!, My Name is Sushree Chinmayee Patra!</h1>
 
-<!--
-**SushreeChinmayee/SushreeChinmayee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- Ph.D. Reseach Scholar in the domain of MEdical Informatics, CSE
+- Yoga Practitioner 
+- Language: English, Hindi, & Odia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Publications
+
+- [An adaptive cuckoo search based algorithm for placement of relay nodes in wireless body area networks](https://www.sciencedirect.com/science/article/pii/S1319157819305804)
+- [Placement of relay nodes in WBAN improved by free search krill herd optimization](https://ieeexplore.ieee.org/abstract/document/8991357)
+
