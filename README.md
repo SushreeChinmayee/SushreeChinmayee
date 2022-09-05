@@ -20,13 +20,22 @@
 
 ### RESEARCH PROJECTS
 
-- Integrated Relay Node Placement and Routing in WBAN using FSKH and HS Algorithm
-      - Advisor: Dr. M. R. Kabat, Department of Computer Science and Engineering, VSSUT, Burla August 2018 - June 2019
-- Machine Learning in Healthcare 
-Advisor: Prof. A. K. Rath, Accessor of NAAC, Bangalore, Former Head of the CSE Department, VSSUT Burla, January 2018 - May 2018
-- Water Automation and Controller System 
-Advisor: Prof. P.S. Dey, Department of Computer Science and Engineering, IIT Kharagpur and Mr. Swagat Kumar Jena, DRDO, Former lecturer of Department of Computer Science and Engineering, GITA Bhubaneswar, August 2015- April 2016
-- Developed a web page for Audio database using MDBMS 
-Advisor: Prof. P.S. Dey, Department of Computer Science and Engineering, IIT Kharagpur, June 2015- July 2016
-- Survey on Microarray Fabrication |BIO-CHIP 
-Advisor: Mr. Swagat Kumar Jena, DRDO, Former lecturer of Department of Computer Science and Engineering, GITA Bhubaneswar, February 2015- May 2015
+- Integrated Relay Node Placement and Routing in WBAN using FSKH and HS Algorithm  
+  Advisor: Dr. M. R. Kabat, Department of Computer Science and Engineering, VSSUT, Burla August 2018 - June 2019
+- Machine Learning in Healthcare   
+  Advisor: Prof. A. K. Rath, Accessor of NAAC, Bangalore, Former Head of the CSE Department, VSSUT Burla, January 2018 - May 2018
+- Water Automation and Controller System  
+  Advisor: Prof. P.S. Dey, Department of Computer Science and Engineering, IIT Kharagpur and Mr. Swagat Kumar Jena, DRDO, Former lecturer of Department of Computer Science and Engineering, GITA Bhubaneswar, August 2015- April 2016
+- Developed a web page for Audio database using MDBMS   
+  Advisor: Prof. P.S. Dey, Department of Computer Science and Engineering, IIT Kharagpur, June 2015- July 2016
+- Survey on Microarray Fabrication |BIO-CHIP   
+  Advisor: Mr. Swagat Kumar Jena, DRDO, Former lecturer of Department of Computer Science and Engineering, GITA Bhubaneswar, February 2015- May 2015
+  
+  ### CONNECT WITH ME
+  
+  - Mail - [sushreechinmayee95@gmail.com](mailto:sushreechinmayee95@gmail.com)
+  - Mail - [bl.en.r4cse22013@bl.students.amrita.edu](mailto:bl.en.r4cse22013@bl.students.amrita.edu)
+  - Google Scolar - [Sushree Chinmayee Patra](https://scholar.google.com/citations?user=ntyHQXQAAAAJ&hl=en)
+  - Research Gate - [Sushree-Patra-3](https://www.researchgate.net/profile/Sushree-Patra-3)
+  - Linkedln - [SushreeChinmayee](https://www.linkedin.com/in/sushreechinmayee/)
+  - Resume - [My Resume](https://drive.google.com/file/d/1ZmgNZ1yKMUs65EOtHNUV_V6J789XLjzf/view?usp=sharing)
