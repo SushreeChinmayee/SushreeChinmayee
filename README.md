@@ -31,11 +31,11 @@
 - Survey on Microarray Fabrication |BIO-CHIP   
   Advisor: Mr. Swagat Kumar Jena, DRDO, Former lecturer of Department of Computer Science and Engineering, GITA Bhubaneswar, February 2015- May 2015
   
-  ### CONNECT WITH ME
-  
-  - Mail - [sushreechinmayee95@gmail.com](mailto:sushreechinmayee95@gmail.com)
-  - Mail - [bl.en.r4cse22013@bl.students.amrita.edu](mailto:bl.en.r4cse22013@bl.students.amrita.edu)
-  - Google Scolar - [Sushree Chinmayee Patra](https://scholar.google.com/citations?user=ntyHQXQAAAAJ&hl=en)
-  - Research Gate - [Sushree-Patra-3](https://www.researchgate.net/profile/Sushree-Patra-3)
-  - Linkedln - [SushreeChinmayee](https://www.linkedin.com/in/sushreechinmayee/)
-  - Resume - [My Resume](https://drive.google.com/file/d/1ZmgNZ1yKMUs65EOtHNUV_V6J789XLjzf/view?usp=sharing)
+### CONNECT WITH ME
+
+- Mail - [sushreechinmayee95@gmail.com](mailto:sushreechinmayee95@gmail.com)
+- Mail - [bl.en.r4cse22013@bl.students.amrita.edu](mailto:bl.en.r4cse22013@bl.students.amrita.edu)
+- Google Scolar - [Sushree Chinmayee Patra](https://scholar.google.com/citations?user=ntyHQXQAAAAJ&hl=en)
+- Research Gate - [Sushree-Patra-3](https://www.researchgate.net/profile/Sushree-Patra-3)
+- Linkedln - [SushreeChinmayee](https://www.linkedin.com/in/sushreechinmayee/)
+- Resume - [My Resume](https://drive.google.com/file/d/1ZmgNZ1yKMUs65EOtHNUV_V6J789XLjzf/view?usp=sharing)
