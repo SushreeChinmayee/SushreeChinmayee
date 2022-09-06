@@ -1,4 +1,4 @@
-<h1 align = 'center'> Hello!, My Name is Sushree Chinmayee Patra!</h1>
+<h1 align = 'center'> Hello! My Name is Sushree Chinmayee Patra </h1>
 
 ### ABOUT ME
 
