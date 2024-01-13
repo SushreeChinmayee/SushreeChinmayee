@@ -9,7 +9,6 @@
 
 ### PUBLICATIONS
 
-- [Forecasting Coronary Heart Disease Risk With a 2-Step Hybrid Ensemble Learning Method and Forward Feature Selection Algorithm] (https://ieeexplore.ieee.org/document/10336765)
 - [Forecasting Coronary Heart Disease Risk With a 2-Step Hybrid Ensemble Learning Method and Forward Feature Selection Algorithm](https://ieeexplore.ieee.org/document/10336765)
 
 - [An adaptive cuckoo search based algorithm for placement of relay nodes in wireless body area networks](https://www.sciencedirect.com/science/article/pii/S1319157819305804)
