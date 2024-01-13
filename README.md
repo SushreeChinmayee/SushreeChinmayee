@@ -9,6 +9,9 @@
 
 ### PUBLICATIONS
 
+-[Forecasting Coronary Heart Disease Risk With a 2-Step Hybrid Ensemble Learning Method and Forward Feature Selection Algorithm]
+(https://ieeexplore.ieee.org/document/10336765)
+
 - [An adaptive cuckoo search based algorithm for placement of relay nodes in wireless body area networks](https://www.sciencedirect.com/science/article/pii/S1319157819305804)
 - [Placement of relay nodes in WBAN improved by free search krill herd optimization](https://ieeexplore.ieee.org/abstract/document/8991357)
 
