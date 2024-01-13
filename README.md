@@ -2,6 +2,7 @@
 
 ### ABOUT ME
 
+- DST INSPIRE Fellow
 - Ph.D. Reseach Scholar in the domain of MEdical Informatics, CSE
 - Yoga Practitioner 
 - Language: English, Hindi, & Odia
